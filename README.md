@@ -156,5 +156,3 @@ Feel free to open issues or submit pull requests.
 
 This project is licensed under the **MIT License**. 
 ```
-
-[1]: https://github.com/sisira214/Research-agent-using-langgraph "GitHub - sisira214/Research-agent-using-langgraph"
